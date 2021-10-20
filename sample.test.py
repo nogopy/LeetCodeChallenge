@@ -1,8 +1,3 @@
-# LeetCodeChallenge
-Site of the storage solution
-
-## Template for unittest
-```
 # run command: python3 sample.test.py -v
 import unittest
 
@@ -20,4 +15,3 @@ class TestFunc(unittest.TestCase):
 
 TestFunc().setUp()
 unittest.main()
-```
